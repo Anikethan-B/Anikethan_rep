@@ -1,0 +1,52 @@
+ page1
+1002136215
+PRODUCTION PICK LIST
+Order Information
+Plant
+Plant EPA
+Material 5006237            Material group
+3267 HOSKOTE PLANT
+7053
+GENERIC 7053
+Order type PI01
+Order status REL PRT PRC BASC BCRQ MACM ORRQ SETC
+Reservation 0010953259
+Batch No 2671731405
+Batch Date 10/11/2017
+8,400.000  KGTotal Qty
+Volume 4925.788 LTR
+Wght/Pckg         1.0000  KG
+Storage Code 7
+For safety information, please refer to process order.
+Process Order Notes
+        7053 48 HOSKOTE PLANT
+Material Memo
+ FLOGARD MS6209                                                                 
+                                                                      
+Item       Description               Type     Phase    Batch number      Quantity     UofM
+0001   9570 L   1100   1649 .760 KG
+    WATER  
+    
+            Material             Quantity
+0002   6473 L   1110   4804 .800 KG
+    PHOSPHORIC ACID 85%  
+    
+            Material             Quantity
+0003   3311 L   1120   1260 .000 KG
+    ZINC OXIDE  
+    
+            Material             Quantity
+ 
+page2
+1002136215
+PRODUCTION PICK LIST
+Item       Description               Type     Phase    Batch number      Quantity     UofM
+0004   9570 L   1130   168 .000 KG
+    WATER  
+    
+            Material             Quantity
+0005   6473 L   1140   517 .440 KG
+    PHOSPHORIC ACID 85%  
+    
+            Material             Quantity
+PROCESS ORDER  
